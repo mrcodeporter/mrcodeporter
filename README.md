@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+ coming soon. 
 <!-- BLOG-POST-LIST:END -->
 
  
