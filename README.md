@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:END -->
 
-
+ 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
