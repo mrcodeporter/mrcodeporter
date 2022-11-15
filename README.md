@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcodeporter&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 <br />
