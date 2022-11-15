@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Kon'nichiwa
-# I'm Ervin Porter - aka Mr.Code.Porter 👋    
+
+# Hi there, Ervin Porter - aka Mr.Code.Porter 👋    
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
+
 ## 💫 About Me :
 
 <p> I am a motivated, dedicated, and goal-oriented professional with Grounded and solution-oriented—system engineering with an expansive variety of professional experience. I am adept at encouraging myself and others and am passionate about developing, building, and maintaining infrastructures. Systems engineering has taught me to prioritize attention to detail during high-pressure scenarios. Analyze processes, service requests, and developments system to streamline end users and enhance client interaction: passionate self-taught full-stack developer and a freelance software engineer. I am also an open-source enthusiast. I learned a lot from the open-source community, and I love collaboration, gaining new knowledge, and sharing through open-source.</p>
