@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, Ervin Porter - aka Mr.Code.Porter 👋    
+### Hi there, Ervin Porter - aka Mr.Code.Porter 👋    
 <!-- [![Website](]() --> 
 
 
@@ -30,6 +30,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 5 hours listening to songs every day.
+- 💬 Ask me about anything tech-related stuff.
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+ Coming Soon... 
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
@@ -38,22 +45,23 @@ Here are some ideas to get you started:
 
 
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
- coming soon. 
-<!-- BLOG-POST-LIST:END -->
 
  
-### Languages and Tools:
+## 💻 Languages and Tools
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrcodeporter&show_icons=true&theme=synthwave)
 
 
-## <h3 align="left">GitHub Stats</h3>
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mrcodeporter&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
-
-
 <br />
 <br />
