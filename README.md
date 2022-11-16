@@ -21,14 +21,12 @@ Here are some ideas to get you started:
 
 ## 💫 About Me :
 
-<p> I am a motivated, dedicated, and goal-oriented professional with Grounded and solution-oriented—system engineering with an expansive variety of professional experience. I am adept at encouraging myself and others and am passionate about developing, building, and maintaining infrastructures. Systems engineering has taught me to prioritize attention to detail during high-pressure scenarios. Analyze processes, service requests, and developments system to streamline end users and enhance client interaction: passionate self-taught full-stack developer and a freelance software engineer. I am also an open-source enthusiast. I learned a lot from the open-source community, and I love collaboration, gaining new knowledge, and sharing through open-source.</p>
-
-
+<p> I am a motivated, dedicated, and goal-oriented professional with Grounded and solution-oriented—system engineering with an expansive variety of professional experience. I am adept at encouraging myself and others and am passionate about developing, building, and maintaining infrastructures. Systems engineering has taught me to prioritize attention to detail during high-pressure scenarios. Analyze processes, service requests, and developments system to streamline end users and enhance client interaction: passionate self-taught full-stack developer and a freelance software engineer. I am also an open-source enthusiast. I learned a lot from the open-sourca
 
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building my own blog 
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check social links below.  
 - ⚡ Fun fact: I spend almost 5 hours listening to songs every day.
 - 💬 Ask me about anything tech-related stuff.
 
@@ -59,6 +57,7 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrcodeporter&show_icons=true&theme=synthwave)
+
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcodeporter&theme=synthwave)
 
 
