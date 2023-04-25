@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrcodeporter&show_icons=true&theme=synthwave)
+
 
 
 
