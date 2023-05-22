@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ## 💫 About Me :
 
-<p> I am a motivated, dedicated, and goal-oriented professional with Grounded and solution-oriented—system engineering with an expansive variety of professional experience. I am adept at encouraging myself and others and am passionate about developing, building, and maintaining infrastructures. Systems engineering has taught me to prioritize attention to detail during high-pressure scenarios. Analyze processes, service requests, and developments system to streamline end users and enhance client interaction: passionate self-taught full-stack developer and a freelance software engineer. I am also an open-source enthusiast. I learned a lot from the open-sourca
+<p> 
+I am an enthusiastic and committed professional with a strong focus on achieving goals. With a diverse range of professional experiences, I possess a grounded and solution-oriented approach to system engineering. My dedication to personal and professional growth drives me to excel in developing, building, and maintaining infrastructures. Through my experience in systems engineering, I have honed my attention to detail, especially in high-pressure situations. I excel at analyzing processes, service requests, and system developments to improve end-user experiences and enhance client interactions. As a passionate and self-taught full-stack developer and freelance software engineer, I continuously expand my skills. Additionally, I am an avid supporter of open-source projects and have gained valuable knowledge from participating in the open-source community.  </p>
 
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building my own blog 
